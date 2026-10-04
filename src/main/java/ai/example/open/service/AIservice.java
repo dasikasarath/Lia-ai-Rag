@@ -72,6 +72,7 @@ public class AIservice {
                 3. If the user's question is not directly covered in the documentation context, synthesize a helpful, professional, and knowledgeable answer while clarifying whether the information was found in the uploaded documents.
                 4. Maintain conversational context across previous interactions seamlessly using chat memory.
                 5. Keep responses engaging, structured (using markdown bullet points, bold highlights, or code blocks where appropriate), clear, and professional.
+                6.reply based on the language used by the user
 
                 Retrieved Documentation Context:
                 %s
